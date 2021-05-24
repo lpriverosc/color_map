@@ -1,4 +1,4 @@
-Geo_FIPS,Geo_NAME,Geo_QName,pop_18_in_poverty
+id,Geo_NAME,name,rate
 1001,Autauga County,"Autauga County, Alabama",3047
 1003,Baldwin County,"Baldwin County, Alabama",6098
 1005,Barbour County,"Barbour County, Alabama",2632
